@@ -1,0 +1,12 @@
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\bin\Debug\PanicButtonAlarm.exe.config
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\bin\Debug\PanicButtonAlarm.exe
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\bin\Debug\PanicButtonAlarm.pdb
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\obj\Debug\PanicButtonAlarm.csprojAssemblyReference.cache
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\obj\Debug\PanicButtonAlarm.Form1.resources
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\obj\Debug\PanicButtonAlarm.Properties.Resources.resources
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\obj\Debug\PanicButtonAlarm.csproj.GenerateResource.cache
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\obj\Debug\PanicButtonAlarm.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\obj\Debug\PanicButtonAlarm.exe
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\obj\Debug\PanicButtonAlarm.pdb
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\obj\Debug\PanicButtonAlarm.PanicApp.resources
+D:\KULIAH\Semester 7\Jaringan Sensor\Percobaan 1 Panic Button\PanicButtonAlarm\PanicButtonAlarm\obj\Debug\PanicButtonAlarm.Resource1.resources
